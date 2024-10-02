@@ -3,6 +3,7 @@
   "appFolders": [],
   "testFolders": [],
   "bcptTestFolders": [],
+  "repo": "https://github.com/microsoft/navcontainerhelper",
   "artifact": "bcartifacts/sandbox/22.0.54157.55210/us/closest",
   "repoVersion": "1.1"
 }
